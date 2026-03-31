@@ -67,7 +67,7 @@ Comentários: Testei a questão de ele não ter fontes suficientes para que resp
 4) Miniguia de Estudo (Entrega Final):
 
 4.1) Resumos:
-
+Link do Resumo: https://docs.google.com/document/d/1tGqjTHeIR0-uuN2SSbZtLeQD0cVUpC6OJfgzDm8Ew9Q/edit?usp=sharing
    
 4.2) Glossário:
 Fundos de Investimento Imobiliário (FIIs): São veículos de investimento que reúnem recursos de diversos investidores para aplicação em empreendimentos imobiliários. No Brasil, os FIIs são fundos estruturados pela Lei 8.668 e administrados por instituições autorizadas pela CVM, oferecendo a vantagem da isenção de imposto de renda sobre os dividendos distribuídos mensalmente para pessoas físicas.
