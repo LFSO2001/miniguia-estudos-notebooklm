@@ -1,5 +1,7 @@
 # miniguia-estudos-notebooklm
 
+Link NotebookLM: https://notebooklm.google.com/notebook/945bca9c-3626-4cb1-8474-5f522ecdfde6
+
 1) Contexto e Objetivos:
    O assunto escolhido foi o setor de Real Estate no Brasil
    O objetivo principal é anaalisar como esse mercado funciona em suas ramificações, Desenvolvimento, Investimento e Mercado de Capitais (FIIs)
