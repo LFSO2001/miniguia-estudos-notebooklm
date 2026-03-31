@@ -99,7 +99,3 @@ Greenfield: É o termo utilizado para descrever um terreno vazio ("folha em bran
 - Como a tecnologia e as Construtechs/Proptechs estão transformando o setor imobiliário por meio do 'canteiro digital', da construção modular e do uso de dados na gestão de ativos?
 - Quais são as características defensivas dos Fundos de Shoppings e dos Fundos de Logística/Galpões? Como os contratos atípicos e a localização influenciam a resiliência desses segmentos?
 
-
-
-4.3) Conjunto de Prompts
-   
