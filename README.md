@@ -3,10 +3,12 @@
 Link NotebookLM: https://notebooklm.google.com/notebook/945bca9c-3626-4cb1-8474-5f522ecdfde6
 
 1) Contexto e Objetivos:
+   
    O assunto escolhido foi o setor de Real Estate no Brasil
    O objetivo principal é anaalisar como esse mercado funciona em suas ramificações, Desenvolvimento, Investimento e Mercado de Capitais (FIIs)
    
-2) Curadoria de Fontes:
+3) Curadoria de Fontes:
+   
    2.1) Estudos Acadêmicos:
         1) https://www.realestate.br/site/conteudo/pagina/1,50+TESES_DE_DOUTORADO.html
         2) http://www.teses.usp.br/teses/disponiveis/3/3146/tde-14052009-174143/publico/DissertacaoGlauciaSatoedrevisada.pdf
@@ -25,7 +27,8 @@ Link NotebookLM: https://notebooklm.google.com/notebook/945bca9c-3626-4cb1-8474-
         11) https://www.youtube.com/watch?v=7ox6rK2gmSQ
         12) https://www.youtube.com/watch?v=DRQaU6Hv3ew
    
-3) Engenharia de Prompts e "Cicatrizes":
+5) Engenharia de Prompts e "Cicatrizes":
+
 3.1)
 Prompt: Como os ativos multiuso se posicionam nesse mercado?
 Resposta: Estabilidade de renda por meio da diversificação: Diferentes segmentos imobiliários (como varejo, residencial e escritórios) possuem ciclos de  mercado distintos. Ao integrar múltiplas tipologias em um ativo de uso misto ou compor um portfólio com esses empreendimentos, consegue-se diluir os riscos e produzir um fluxo de receitas muito mais estável, pois a não coincidência dos ciclos compensa eventuais baixas de um setor específico.
@@ -62,6 +65,7 @@ Fontes utilizadas: 2
 Comentários: Testei a questão de ele não ter fontes suficientes para que respondesse essa pergunta.
 
 4) Miniguia de Estudo (Entrega Final):
+
 4.1) Resumos:
 
    
